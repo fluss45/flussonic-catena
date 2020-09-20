@@ -1,11 +1,19 @@
-# flussonic 20.9 - catena offline 
+#flussonic offline - catena 
 
-Skype # kaul.thetv
-Flussonic Catena is a platform (web control panel, IPTV middleware) that enables you to manage live streams, VOD assets, customers and resellers via a unified web interface. Catena is not a video streamer but it uses one or more Flussonic Media Servers as streamers.
+#Skype - kaul.thetv
+Flussonic streaming software with Iptv camera
+Catena is a platform (web control panel, IPTV middleware) that enables you to manage live streams, VOD assets, customers and resellers via a unified web interface. Catena is not a video streamer but it uses one or more Flussonic Media Servers as streamers.
 
 Note. Flussonic Catena was intended to replace the Flussonic's IPTV plugin and add more functionality.
 
 With Flussonic Catena you can:
+
+#flussonic
+#camera
+#offline
+#dvr
+#watcher
+#unlimited servers
 
 Manage thousands of stream sources
 Manage subscribers
