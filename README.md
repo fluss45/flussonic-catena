@@ -6,6 +6,7 @@
 #crack
 Crack Flussonic lifetime and unlimited servers works
 
+Cracked flussonic license key
 l4|8Ku8ypPgOUySHysCdkFHW0|r6BzpmVPpjgKpn9IunpFp6lLbCZOp3
 
 l4|aO4RO2ZdLEzHAdH46n6iD0|r6BzpmVPpjgKpn9IunpFp6lLbCZOp3
